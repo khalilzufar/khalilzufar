@@ -1,5 +1,6 @@
-Khalil Zufar - Data Analyst / Data Scientist
-👋 Hi there! I’m Khalil Zufar, a Data Analyst with a keen interest in transforming data into meaningful insights. With solid training from Hacktiv8’s Data Science program, I bring hands-on experience in data processing, analysis, and visualization, as well as foundational machine learning techniques. I thrive on solving real-world business problems through data-driven decisions.
+#Khalil Zufar - Data Analyst / Data Scientist
+
+👋 Hi there! I’m Khalil Zufar, a Data Enthusiast with a keen interest in transforming data into meaningful insights. With solid training from Hacktiv8’s Data Science program, I bring hands-on experience in data processing, analysis, and visualization, as well as foundational machine learning techniques. I thrive on solving real-world business problems through data-driven decisions.
 
 👀 About Me
 
